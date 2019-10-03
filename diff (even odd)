@@ -1,0 +1,6 @@
+N,M=(map(int,input().split()))
+S=N-M
+if(S%2==0):
+ print("even")
+else:
+ print("odd")
